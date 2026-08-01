@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other/fursona/","tags":["Creator/Gwen"]}
+{"dg-publish":true,"permalink":"/other/fursona/","tags":["Creator/Gwen"],"noteIcon":"","dg-note-properties":{"type":["Character"],"aliases":null,"tags":["Creator/Gwen"],"Profession":null,"Birthday":"2003-07-11","Age":22,"Origin":"Unknown","Affiliation":["[[Gwyn|\"Gwyn\"]]"],"Status":null,"Gender":"Non-binary","Language":["Common"],"image":null}}
 ---
 
 >[!info] Fursona

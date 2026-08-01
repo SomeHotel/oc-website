@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dead/colt/","tags":["Race/Human","Creator/Gwen"]}
+{"dg-publish":true,"permalink":"/dead/colt/","tags":["Race/Human","Creator/Gwen"],"noteIcon":"","dg-note-properties":{"type":["Character"],"aliases":null,"tags":["Race/Human","Creator/Gwen"],"Age":9,"Status":"Dead","Gender":"Cis Boy","Language":["Common","Common Sign Language"],"Profession":["Servant"],"Birthday":null,"Origin":"[[Locations/Dark elf place]]","Affiliation":["[[Factions/Families/Nighthollow/Nighthollow Family|Nighthollow Family (former)]]"],"image":null}}
 ---
 
 >[!info] Colt

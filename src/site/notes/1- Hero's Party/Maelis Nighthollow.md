@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-hero-s-party/maelis-nighthollow/","tags":["Race/Half-Elf/Wood-Elf","Background/Noble","Faith/Selûne","Patron/Shar"]}
+{"dg-publish":true,"permalink":"/1-hero-s-party/maelis-nighthollow/","tags":["Race/Half-Elf/Wood-Elf","Background/Noble","Faith/Selûne","Patron/Shar"],"noteIcon":"","dg-note-properties":{"type":["Character"],"aliases":["Maelis","Tar'al"],"tags":["Race/Half-Elf/Wood-Elf","Background/Noble","Faith/Selûne","Patron/Shar"],"Profession":["Assassin"],"Birthday":null,"Age":15,"Origin":"[[Locations/Dark elf place]]","Affiliation":["[[1- Hero's Party/Hero's Party]]","[[Factions/Families/Nighthollow/Nighthollow Family|Nighthollow Family (former)]]"],"Status":"Alive","Gender":"Trans Woman","Language":["Common Sign Language","Common","Elvish"],"image":"[[z_Images/Maelis_reference_cropped.webp]]"}}
 ---
 
 >[!info] Maelis Nighthollow

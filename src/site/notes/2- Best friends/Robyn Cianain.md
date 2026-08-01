@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/2-best-friends/robyn-cianain/","tags":["Creator/Gwen","Race/Miqote"]}
+{"dg-publish":true,"permalink":"/2-best-friends/robyn-cianain/","tags":["Creator/Gwen","Race/Miqote"],"noteIcon":"","dg-note-properties":{"type":["Character"],"aliases":["Robyn","7n7"],"tags":["Creator/Gwen","Race/Miqote"],"Profession":["Bounty Hunter"],"Birthday":null,"Age":26,"Origin":"[[Cildrh village]]","Affiliation":["[[Dead/Iseabail Cianain|Ish]]","[[2- Best friends/Alderick Mossgrove|Alderick]]","[[2- Best friends/Cildrh Laan|Cildrh]]","[[2- Best friends/Kaili Mossgrove|Kaili]]","[[2- Best friends/Best friends]]"],"Status":"Alive","Gender":"Trans Man","Language":["Common"],"image":"[[z_Images/Robyn_Placeholder.webp]]"}}
 ---
 
 >[!info] Robyn Cianain
->![Robyn_Placeholder.webp|Image is a placeholder](/img/user/z_Images/Robyn_Placeholder.webp)
+>![Robyn_Placeholder.webp\|Image is a placeholder](/img/user/z_Images/Robyn_Placeholder.webp)
 >**Born** `= this.birthday` (age 26)
 >**Origin** [[Cildrh village\|Cildrh village]]
 >
 > **Aliases**  
-> Robyn
+> Robyn,7n7
 >
 > **Affiliations**
 > [[Dead/Iseabail Cianain\|Ish]],[[2- Best friends/Alderick Mossgrove\|Alderick]],[[2- Best friends/Cildrh Laan\|Cildrh]],[[2- Best friends/Kaili Mossgrove\|Kaili]],[[2- Best friends/Best friends\|Best friends]]

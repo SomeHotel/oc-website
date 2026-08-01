@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-best-friends/cildrh-laan/","tags":["Race/Miqote","Creator/Panycc"]}
+{"dg-publish":true,"permalink":"/2-best-friends/cildrh-laan/","tags":["Race/Miqote","Creator/Panycc"],"noteIcon":"","dg-note-properties":{"type":["Character"],"aliases":["Cildrh"],"tags":["Race/Miqote","Creator/Panycc"],"Profession":["Adventurer (former)","Waiter"],"Birthday":null,"Age":23,"Origin":"[[Cildrh village]]","Affiliation":["[[Dead/Iseabail Cianain|Ish]]","[[2- Best friends/Kaili Mossgrove|Kaili]]","[[2- Best friends/Robyn Cianain|Robyn]]","[[2- Best friends/Best friends]]"],"Status":"Alive","Gender":"Cis Man","Language":["Common"],"image":null}}
 ---
 
 >[!info] Cildrh Laan

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-best-friends/morgan/","tags":["Creator/Gwen","Race/Tiefling"]}
+{"dg-publish":true,"permalink":"/2-best-friends/morgan/","tags":["Creator/Gwen","Race/Tiefling"],"noteIcon":"","dg-note-properties":{"type":["Character"],"aliases":null,"tags":["Creator/Gwen","Race/Tiefling"],"Profession":["Self Defence Teacher","Monk (former)"],"Birthday":null,"Age":null,"Origin":"Unknown","Affiliation":["[[2- Best friends/Best friends]]","[[2- Best friends/Cildrh Laan|Cildrh]]"],"Status":"Alive","Gender":"Cis Woman","Language":["Common"],"image":null}}
 ---
 
 >[!info] Morgan

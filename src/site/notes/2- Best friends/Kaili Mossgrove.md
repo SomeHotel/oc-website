@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-best-friends/kaili-mossgrove/","tags":["Race/Human","Creator/Gwen"]}
+{"dg-publish":true,"permalink":"/2-best-friends/kaili-mossgrove/","tags":["Race/Human","Creator/Gwen"],"noteIcon":"","dg-note-properties":{"type":["Character"],"aliases":["Kaili"],"tags":["Race/Human","Creator/Gwen"],"Profession":["Nurse (former)","Paladin","Adventurer"],"Birthday":null,"Age":30,"Origin":"[[Locations/Mossgrove Village]]","Affiliation":["[[2- Best friends/Alderick Mossgrove|Alderick]]","[[Dead/Jennifer Mossgrove|Jenny]]","[[2- Best friends/Aiden Mossgrove|Aiden]]","[[2- Best friends/Cildrh Laan]]","[[Dead/Iseabail Cianain|Ish]]","[[2- Best friends/Best friends]]"],"Status":"Alive","Gender":"Cis Woman","Language":["Common"],"image":null}}
 ---
 
 >[!info] Kaili Mossgrove

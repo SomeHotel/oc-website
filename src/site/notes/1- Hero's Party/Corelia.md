@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-hero-s-party/corelia/","tags":["Race/Tiefling/Zariel"]}
+{"dg-publish":true,"permalink":"/1-hero-s-party/corelia/","tags":["Race/Tiefling/Zariel"],"noteIcon":"","dg-note-properties":{"type":["Character"],"aliases":null,"tags":["Race/Tiefling/Zariel"],"Birthday":null,"Profession":["Paladin","Hunter"],"Age":16,"Affiliation":["[[1- Hero's Party/Hero's Party]]"],"Status":"Alive","Gender":"Cis Woman","Language":["Common","Common Sign Language"],"Origin":null,"image":"[[z_Images/Corelia maybe_reference_cropped.webp]]"}}
 ---
 
 >[!info] Corelia

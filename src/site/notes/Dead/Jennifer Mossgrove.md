@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dead/jennifer-mossgrove/","tags":["Creator/Gwen"]}
+{"dg-publish":true,"permalink":"/dead/jennifer-mossgrove/","tags":["Creator/Gwen"],"noteIcon":"","dg-note-properties":{"type":["Character"],"aliases":["Jenny","Jen"],"tags":["Creator/Gwen"],"Profession":["Adventurer (former)","Nurse (former)"],"Birthday":null,"Age":44,"Origin":"[[Locations/Mossgrove Village]]","Affiliation":["[[2- Best friends/Alderick Mossgrove]]"],"Status":"Dead","Gender":"Cis Woman","Language":["Common","Common Sign Language"],"image":null}}
 ---
 
 >[!info] Jennifer Mossgrove

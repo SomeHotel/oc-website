@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-best-friends/alderick-mossgrove/","tags":["Race/Human","Creator/Gwen"]}
+{"dg-publish":true,"permalink":"/2-best-friends/alderick-mossgrove/","tags":["Race/Human","Creator/Gwen"],"noteIcon":"","dg-note-properties":{"type":["Character"],"aliases":["Alderick","Al","Rick","Ricky"],"tags":["Race/Human","Creator/Gwen"],"Profession":["Retired","Gardener","Adventurer (former)","Chef (former)","Nurse (former)","Construction Worker (former)"],"Birthday":null,"Age":65,"Origin":"[[Locations/Mossgrove Village]]","Affiliation":["[[Dead/Jennifer Mossgrove]]","[[2- Best friends/Best friends]]"],"Status":"Alive","Gender":"Cis Man","Language":["Common","Common Sign Language","Gaeilge"],"image":null}}
 ---
 
 >[!info] Alderick Mossgrove
@@ -42,7 +42,7 @@
 - Very very rarely gets angry, but always feels guilty afterwards
 - Always tries to uplift people
 - Wears his heart on his sleeve
-- Will punch a bigot
+- Has punched bigots
 - 
 # Relationships
 ## Mossgroves

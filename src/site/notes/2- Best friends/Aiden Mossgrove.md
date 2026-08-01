@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-best-friends/aiden-mossgrove/","tags":["Creator/Gwen"]}
+{"dg-publish":true,"permalink":"/2-best-friends/aiden-mossgrove/","tags":["Creator/Gwen"],"noteIcon":"","dg-note-properties":{"type":["Character"],"aliases":["Aiden"],"tags":["Creator/Gwen"],"Profession":["Fighter","Cleric"],"Birthday":null,"Age":29,"Origin":"[[Locations/Mossgrove Village]]","Affiliation":["[[2- Best friends/Kaili Mossgrove|Kaili]]","[[2- Best friends/Best friends]]","[[1- Hero's Party/Hero's Party]]"],"Status":"Alive","Gender":"Cis Man","Language":["Common"],"image":null}}
 ---
 
 >[!info] Aiden Mossgrove
