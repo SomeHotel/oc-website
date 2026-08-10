@@ -20,9 +20,12 @@
 # Appearance
 - Blue wyrmling
 - Stunted for her age
+- Has a small saddle so she can carry bags but refuses anyone who tries to mount her
 - 
 # Physical Characteristics
-- Can't fly
+- Can't fly despite having large enough wings to do so
+- Can dig small tunnels 
+- Omnivorous with a preference for steak and peach
 - 
 # Background
 - Lives with [[Misc/Characters/Olive\|Olive]]
@@ -38,17 +41,21 @@
 - Expressive with her eyebrows
 - Likes belly rubs by trusted individuals (Not Olive)
 - Sometimes claws at the corner of random walls for seemingly no reason
+- Prefers tight, warm or damp places
 - 
 # Relationships
 ### [[Misc/Characters/Olive\|Olive]]
-Reluctantly stays with them because they'll both die otherwise. While they absolutely hate Olive, they will still protect them from mortal danger. During night they take turns doing shifts if they're near somewhere dangerous.
+Reluctantly stays with them because they'll both die otherwise. While they absolutely hate Olive, they will still protect them from mortal danger. During night they take turns doing shifts if they're staying somewhere dangerous. They move around a lot 
 ### [[Bahamut\|Bahamut]]
-?????
+Possible relative and/or preferred deity
 # Timeline
 ```aat-vertical
 
 ```
 # Quotes
+"(¬_¬)" - usually what she looks like
+"( ˶°ㅁ°) !" - she heard Olive reach for food
+":P" - she just ate one of Olive's shoes because she was bored waiting for them to wake up
 
 # Trivia
 - Can be communicated with using mind read or message but won't necessarily talk to you 
