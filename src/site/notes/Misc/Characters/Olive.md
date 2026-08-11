@@ -42,7 +42,7 @@
 - 
 # Relationships
 ## Dragons
-### [[Misc/Characters/Olive Burrowdrake\|Burrowdrake]]
+### [[Misc/Characters/Sycamore\|Sycamore]]
 
 ## Other
 ### [[Tolari\|Tolari]]
